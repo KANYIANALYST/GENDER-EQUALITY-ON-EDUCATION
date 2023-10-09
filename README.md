@@ -1,8 +1,8 @@
 # GENDER-EQUALITY-ON-EDUCATION
-# OUTLINE
-Introduction\
-Problem Statement\
-Data Collection\
-Data Preparation\
-Findings
-Recommedations\
+## OUTLINE
+1. Introduction\
+2. Problem Statement\
+3. Data Collection\
+4. Data Preparation\
+5. Findings\
+6. Recommedations
