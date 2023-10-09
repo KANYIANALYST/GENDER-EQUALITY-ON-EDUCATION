@@ -1,4 +1,4 @@
-# GENDER-EQUALITY-ON-EDUCATION
+# GENDER-EQUALITY
 ## OUTLINE
 1. Introduction
 2. Problem Statement
@@ -10,13 +10,14 @@
 # Introduction
 The concept of gender equality can be traced back to the late 18th century after the Enlightenment, which brought about new ideas and beliefs on individual rights and freedoms. Gender equality is a concept centered on equal opportunities and rights for people of all genders, irrespective of their biological sex. Putting women and girls at the center of economies will fundamentally drive better and more sustainable development outcomes for all, support a more rapid recovery, and place the world back on a footing to achieve the Sustainable Development Goals. Gender equality ensures that both girls and boys have equal opportunities to access and complete education. When girls have equal access to education, it leads to improved literacy rates, higher enrollment rates, and better academic performance. Closing the gender gap in education contributes to overall societal development and economic growth. 
 # Problem Statement
-This project aims at analysing the impact of gender equality on eduction in Middle East and North Africa
+This project aims at analysing the impact of gender equality on eduction and labor force in Middle East and North Africa
 # Data Collection
 The dataset was sorced from https://genderdata.worldbank.org/
 # Data Preparation
 Microsoft Excel Power Editor is used for the data transformation.
 
-![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/96d8de71-c4cf-4151-b220-dbed700ffb19)
+![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/ba0bb101-0207-4892-a998-1dd9f55d9485)
+
 
 
 # Findings
@@ -32,11 +33,10 @@ This is Tertially level enrollment for male male verses Female
 ### Labor Force
 ![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/7827465e-f831-4b50-9091-e318d849374f)
 
-
-Based on the data, the rate of school enrollment and completion for both males and females increases yearly. 
-There is a great move in education gender equality in the Middle East and North Africa at the Tertiary level with female graduates outnumbering male graduates. This is an indication that the gender gap in education in this region is varishing positively.
-However the education gender equality in this region does not translate to  Labor Force gender equality.
-There are barriers faced by women in the region which include cultural norms, early marriages, and limited resources
+1. Based on the data, the rate of school enrollment and completion for both males and females increases yearly. 
+2. There is a great move in education gender equality in the Middle East and North Africa at the Tertiary level with female graduates outnumbering male graduates. This is an indication that the gender gap in education in this region is varishing positively.
+3. However the education gender equality in this region does not translate to  Labor Force gender equality.
+4. There are barriers faced by women in the region which include cultural norms, early marriages, and limited resources
 
 # Recommedations
 1. Mentorship programs can be created to help girls and women succeed in their educational and professional endeavors. These programs can offer advice, networking opportunities, and role models who encourage and empower women to pursue their dreams and ambitions.
