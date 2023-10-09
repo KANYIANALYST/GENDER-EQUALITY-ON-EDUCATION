@@ -20,16 +20,34 @@ Microsoft Excel Power Editor is used for the data transformation.
 
 
 # Findings
+### Education
 Here is viz for the Secondary school enrollment for male verses female
-![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/dba8a6c0-22c2-45e0-b899-e5f0c287d2c3)  ![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/aafaaa56-5ec5-4211-a745-3ca7d157c15c)                                                This viz represents a secondary school completion for both gender
-
-
-
+![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/dba8a6c0-22c2-45e0-b899-e5f0c287d2c3)  
 
 
 This is Tertially level enrollment for male male verses Female
 
 ![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/1dd8257a-0b62-4a57-b821-cb44f8fbdfb4)
+
+### Labor Force
+![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/7827465e-f831-4b50-9091-e318d849374f)
+
+
+Based on the data, the rate of school enrollment and completion for both males and females increases yearly. 
+There is a great move in education gender equality in the Middle East and North Africa at the Tertiary level with female graduates outnumbering male graduates. This is an indication that the gender gap in education in this region is varishing positively.
+However the education gender equality in this region does not translate to  Labor Force gender equality.
+There are barriers faced by women in the region which include cultural norms, early marriages, and limited resources
+
+# Recommedations
+1. Mentorship programs can be created to help girls and women succeed in their educational and professional endeavors. These programs can offer advice, networking opportunities, and role models who encourage and empower women to pursue their dreams and ambitions.
+
+2. Employers should embrace supportive workplace practices such as flexible working arrangements, parental leave, and childcare facilities. These regulations make it possible for women to balance their job and home commitments, hence increasing their participation and advancement in the labor field.
+
+3. Women’s participation in vocational training programs and skill development efforts by promoting vocational training and skill development. This will allow women to gain the essential skills for employment in a variety of fields, increasing their employability and economic independence.
+
+4. Accurate and up-to-date Gender-specific data should be collected, analyzed, and used by governments and organizations to develop inclusive policies and activities.!
+
+
 
 
 
