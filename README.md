@@ -4,8 +4,9 @@
 2. Problem Statement
 3. Data Collection
 4. Data Preparation
-5. Findings
-6. Recommedations
+5. Visualization
+6. Insights
+7. Recommedations
 
 # Introduction
 The concept of gender equality can be traced back to the late 18th century after the Enlightenment, which brought about new ideas and beliefs on individual rights and freedoms. Gender equality is a concept centered on equal opportunities and rights for people of all genders, irrespective of their biological sex. Putting women and girls at the center of economies will fundamentally drive better and more sustainable development outcomes for all, support a more rapid recovery, and place the world back on a footing to achieve the Sustainable Development Goals. Gender equality ensures that both girls and boys have equal opportunities to access and complete education. When girls have equal access to education, it leads to improved literacy rates, higher enrollment rates, and better academic performance. Closing the gender gap in education contributes to overall societal development and economic growth. 
