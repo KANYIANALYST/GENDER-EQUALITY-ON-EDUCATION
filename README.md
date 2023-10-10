@@ -20,7 +20,7 @@ Microsoft Excel Power Editor is used for the data transformation.
 
 
 
-# Findings
+# VISUALIZATION
 ### Education
 Here is viz for the Secondary school enrollment for male verses female
 ![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/dba8a6c0-22c2-45e0-b899-e5f0c287d2c3)  
@@ -33,6 +33,7 @@ This is Tertially level enrollment for male male verses Female
 ### Labor Force
 ![image](https://github.com/KANYIANALYST/GENDER-EQUALITY-ON-EDUCATION/assets/130997793/7827465e-f831-4b50-9091-e318d849374f)
 
+## INSIGHTS
 1. Based on the data, the rate of school enrollment and completion for both males and females increases yearly. 
 2. There is a great move in education gender equality in the Middle East and North Africa at the Tertiary level with female graduates outnumbering male graduates. This is an indication that the gender gap in education in this region is varishing positively.
 3. However the education gender equality in this region does not translate to  Labor Force gender equality. 
