@@ -35,8 +35,10 @@ This is Tertially level enrollment for male male verses Female
 
 1. Based on the data, the rate of school enrollment and completion for both males and females increases yearly. 
 2. There is a great move in education gender equality in the Middle East and North Africa at the Tertiary level with female graduates outnumbering male graduates. This is an indication that the gender gap in education in this region is varishing positively.
-3. However the education gender equality in this region does not translate to  Labor Force gender equality.
-4. There are barriers faced by women in the region which include cultural norms, early marriages, and limited resources
+3. However the education gender equality in this region does not translate to  Labor Force gender equality. 
+4. It is clear that male labor force still substantially dominate the female labor in the labor sector.
+5. It was also observed that in 2020 there was a drop in the participation ratio of most of the African countries. According to the world economic Forum, 4.2% of women's employment was eliminated because of the pandemic from 2019 to 2020, compared to 3% of men.
+6. There are barriers faced by women in the region which include cultural norms, early marriages, and limited resources
 
 # Recommedations
 1. Mentorship programs can be created to help girls and women succeed in their educational and professional endeavors. These programs can offer advice, networking opportunities, and role models who encourage and empower women to pursue their dreams and ambitions.
