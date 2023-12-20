@@ -6,7 +6,7 @@
 4. Data Preparation
 5. Visualization
 6. Insights
-7. Recommedations
+7. Recommendations
 
 # Introduction
 The concept of gender equality can be traced back to the late 18th century after the Enlightenment, which brought about new ideas and beliefs on individual rights and freedoms. Gender equality is a concept centered on equal opportunities and rights for people of all genders, irrespective of their biological sex. Putting women and girls at the center of economies will fundamentally drive better and more sustainable development outcomes for all, support a more rapid recovery, and place the world back on a footing to achieve the Sustainable Development Goals. Gender equality ensures that both girls and boys have equal opportunities to access and complete education. When girls have equal access to education, it leads to improved literacy rates, higher enrollment rates, and better academic performance. Closing the gender gap in education contributes to overall societal development and economic growth. 
@@ -43,7 +43,7 @@ This is Tertially level enrollment for male male verses Female
 5. It was also observed that in 2020 there was a drop in the participation ratio of most of the African countries. According to the world economic Forum, 4.2% of women's employment was eliminated because of the pandemic from 2019 to 2020, compared to 3% of men.
 6. There are barriers faced by women in the region which include cultural norms, early marriages, and limited resources.
 
-# Recommedations
+# Recommendations
 1. Mentorship programs can be created to help girls and women succeed in their educational and professional endeavors. These programs can offer advice, networking opportunities, and role models who encourage and empower women to pursue their dreams and ambitions.
 
 2. Employers should embrace supportive workplace practices such as flexible working arrangements, parental leave, and childcare facilities. These regulations make it possible for women to balance their job and home commitments, hence increasing their participation and advancement in the labor field.
